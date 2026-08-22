@@ -1,2 +1,2 @@
 Live url 
-quizermaker.vercel.app
+https://quizermaker.vercel.app/
